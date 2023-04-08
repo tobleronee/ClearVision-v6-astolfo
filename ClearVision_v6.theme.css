@@ -1,5 +1,5 @@
 /**
- * @name yuhhhh
+ * @name yuhhhhafdasdf
  * @author ClearVision Team
  * @version 6.3.0
  * @description Highly customizable and beautiful theme for BetterDiscord.
@@ -36,17 +36,17 @@
   --background-invert: 0%;
   --background-blur: 2px;
   --background-overlay: rgb(0,0,0,0.6);
-  --user-popout-image: url('https://clearvision.github.io/images/sapphire.jpg');
+  --user-popout-image: url('https://i.imgur.com/YwVHElm.jpg');
   --user-popout-position: center;
   --user-popout-size: cover;
   --user-popout-repeat: no-repeat;
   --user-popout-attachment: fixed;
-  --user-popout-brightness: 100%;
+  --user-popout-brightness: 90%;
   --user-popout-contrast: 100%;
   --user-popout-saturation: 100%;
-  --user-popout-grayscale: 0%;
+  --user-popout-grayscale: 10%;
   --user-popout-invert: 0%;
-  --user-popout-blur: 3px;
+  --user-popout-blur: 4px;
   --user-modal-image: transparent;
   --user-modal-position: center;
   --user-modal-size: cover;

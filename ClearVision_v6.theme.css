@@ -1,5 +1,5 @@
 /**
- * @name yuhyuh2
+ * @name yuhhhh
  * @author ClearVision Team
  * @version 6.3.0
  * @description Highly customizable and beautiful theme for BetterDiscord.
@@ -14,6 +14,8 @@
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 @import url('https://nyri4.github.io/Discolored/main.css');
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://nyri4.github.io/Discolored/main.css');
 
 :root {
   --main-color: #FFA0A0;
@@ -58,7 +60,7 @@
   --user-modal-blur: 3px;
   --home-icon: url('https://i.pinimg.com/originals/b3/ac/bd/b3acbd7d1be62555b47eb4e7ee650bf0.jpg');
   --home-position: center;
-  --home-size: 66px;
+  --home-size: 62px;
   --channel-unread: var(--main-color);
   --channel-color: rgba(255,255,255,0.3);
   --muted-color: rgba(255,255,255,0.1);
@@ -90,9 +92,9 @@
   --rs-small-spacing: 2px;
   --rs-medium-spacing: 2px;
   --rs-large-spacing: 2px;
-  --rs-small-width: 2px;
-  --rs-medium-width: 2px;
-  --rs-large-width: 2px;
+  --rs-small-width: 3px;
+  --rs-medium-width: 3px;
+  --rs-large-width: 3px;
   --rs-avatar-shape: 50%;
   --rs-online-color: #43b581;
   --rs-idle-color: #faa61a;

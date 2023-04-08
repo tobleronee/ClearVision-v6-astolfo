@@ -1,5 +1,5 @@
 /**
- * @name yuhyuh
+ * @name yuhyuh2
  * @author ClearVision Team
  * @version 6.3.0
  * @description Highly customizable and beautiful theme for BetterDiscord.
@@ -13,6 +13,7 @@
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 @import url('https://nyri4.github.io/Discolored/main.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 
 :root {
   --main-color: #FFA0A0;
@@ -44,7 +45,7 @@
   --user-popout-grayscale: 0%;
   --user-popout-invert: 0%;
   --user-popout-blur: 3px;
-  --user-modal-image: url('https://images4.alphacoders.com/906/906149.png');
+  --user-modal-image: transparent;
   --user-modal-position: center;
   --user-modal-size: cover;
   --user-modal-repeat: no-repeat;

@@ -1,5 +1,5 @@
 /**
- * @name yuhhhhafdasdf
+ * @name bigbootylatinas
  * @author ClearVision Team
  * @version 6.3.0
  * @description Highly customizable and beautiful theme for BetterDiscord.
@@ -9,58 +9,52 @@
  * @BDEditor Clear Vision
 */
 
-@import url('https://fonts.googleapis.com/css2?family=Quiche+Sans:wght@100;300;400;500;700&display=swap');
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
-@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
-@import url('https://nyri4.github.io/Discolored/main.css');
-@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
-@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
-@import url('https://nyri4.github.io/Discolored/main.css');
 
 :root {
-  --main-color: #FFA0A0;
-  --hover-color: #EF6363;
-  --success-color: #3993DB;
+  --main-color: #F8C8DC;
+  --hover-color: #FBABCC;
+  --success-color: #43b581;
   --danger-color: #982929;
-  --url-color: #FFBCBC;
-  --background-image: url('https://images4.alphacoders.com/906/906149.png');
+  --url-color: #F8C8DC;
+  --background-image: url('https://i.imgur.com/seqNDSg.png');
   --background-shading: 100%;
   --background-position: center;
   --background-size: cover;
   --background-repeat: no-repeat;
   --background-attachment: fixed;
-  --background-brightness: 100%;
+  --background-brightness: 140%;
   --background-contrast: 100%;
-  --background-saturation: 110%;
+  --background-saturation: 300%;
   --background-grayscale: 0%;
   --background-invert: 0%;
-  --background-blur: 2px;
-  --background-overlay: rgb(0,0,0,0.6);
-  --user-popout-image: url('https://i.imgur.com/YwVHElm.jpg');
-  --user-popout-position: center;
+  --background-blur: 3px;
+  --background-overlay: rgb(0,0,0,0.54);
+  --user-popout-image: url('https://i.imgur.com/UvWZSSD.png');
+  --user-popout-position: top center;
   --user-popout-size: cover;
   --user-popout-repeat: no-repeat;
   --user-popout-attachment: fixed;
-  --user-popout-brightness: 90%;
+  --user-popout-brightness: 95%;
   --user-popout-contrast: 100%;
   --user-popout-saturation: 100%;
-  --user-popout-grayscale: 10%;
+  --user-popout-grayscale: 0%;
   --user-popout-invert: 0%;
-  --user-popout-blur: 4px;
-  --user-modal-image: transparent;
+  --user-popout-blur: 12px;
+  --user-modal-image: url('https://i.imgur.com/j588GLS.png');
   --user-modal-position: center;
   --user-modal-size: cover;
   --user-modal-repeat: no-repeat;
   --user-modal-attachment: fixed;
-  --user-modal-brightness: 100%;
+  --user-modal-brightness: 95%;
   --user-modal-contrast: 100%;
   --user-modal-saturation: 100%;
   --user-modal-grayscale: 0%;
   --user-modal-invert: 0%;
-  --user-modal-blur: 3px;
-  --home-icon: url('https://i.pinimg.com/originals/b3/ac/bd/b3acbd7d1be62555b47eb4e7ee650bf0.jpg');
+  --user-modal-blur: 12px;
+  --home-icon: url('https://i.imgur.com/pLoBs9o.png');
   --home-position: center;
-  --home-size: 62px;
+  --home-size: 46px;
   --channel-unread: var(--main-color);
   --channel-color: rgba(255,255,255,0.3);
   --muted-color: rgba(255,255,255,0.1);
@@ -69,7 +63,7 @@
   --dnd-color: #982929;
   --streaming-color: #593695;
   --offline-color: #808080;
-  --main-font: Quiche Sans;
+  --main-font: gg sans;
   --code-font: Consolas;
   --channels-width: 220px;
   --members-width: 240px;
@@ -89,17 +83,4 @@
   --bd-blue: var(--main-color);
   --bd-blue-hover: var(--hover-color);
   --bd-blue-active: var(--hover-color);
-  --rs-small-spacing: 2px;
-  --rs-medium-spacing: 2px;
-  --rs-large-spacing: 2px;
-  --rs-small-width: 3px;
-  --rs-medium-width: 3px;
-  --rs-large-width: 3px;
-  --rs-avatar-shape: 50%;
-  --rs-online-color: #43b581;
-  --rs-idle-color: #faa61a;
-  --rs-dnd-color: #f04747;
-  --rs-offline-color: #636b75;
-  --rs-streaming-color: #643da7;
-  --rs-phone-visible: block;
 }
